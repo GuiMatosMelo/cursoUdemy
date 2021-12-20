@@ -17,7 +17,6 @@ public class Program {
         OrderStatus os2 = OrderStatus.valueOf("DELIVERED");
 
 
-        System.out.println(os2);
 
     }
 }
